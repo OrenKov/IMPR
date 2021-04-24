@@ -49,10 +49,12 @@ The main purpose of this program is to deal with the applications of pyramids, l
 ### Related Files
 - **sol3.py**: The program file.
 - **requirements_3.txt**: The requirements file for the program. 
-- **3 jpg files**: Being used in the blending example.
+- **externals**: "catan512.jpg" "example_outcome.jpg" "trump_big_512.jpg" "catan_trump_mask.jpg"; being used in the blending example.
 
 ### Program's Outcomes
-On built.
+![outcome](https://github.com/OrenKov/IMPR/tree/main/Code_Sample_3/externals/example_outcome.jpg?raw=true)
+
+
 
 ### Notes
 - The project assumes valid inputs.

@@ -5,7 +5,7 @@ Projects related to Introduction to Image Processing course.
 <br />
 
 ## Code_Sample_1 - Image Representations, Intensity Transformations, Quantization
-The main purpose of this program is to get acquainted with NumPy and some image proccessing facillities.
+The main purpose of this program is to get acquainted with some image proccessing facillities and related NumPy functions.
 
 ### The program covers:
 - Loading grayscale and RGB image representations.
@@ -15,7 +15,7 @@ The main purpose of this program is to get acquainted with NumPy and some image 
 - Performing optimal quantizations.
 
 ### Related Files
-- **sol1.py**: The program file.
+- **program1.py**: The program file.
 - **requirements_1.txt**: The requirements file for the program. 
 
 ### Notes
@@ -32,7 +32,7 @@ The main purpose of this program is to understand (hands-on) the concept of the 
 - Performing image derivative.
 
 ### Related Files
-- **sol2.py**: The program file.
+- **program2.py**: The program file.
 - **requirements_2.txt**: The requirements file for the program. 
 
 ### Notes
@@ -50,7 +50,7 @@ The main purpose of this program is to deal with the applications of pyramids, l
 - Ipmlementing pyramid blending.
 
 ### Related Files
-- **sol3.py**: The program file.
+- **program3.py**: The program file.
 - **requirements_3.txt**: The requirements file for the program. 
 - **externals**: "catan512.jpg" "example_outcome.jpg" "trump_big_512.jpg" "catan_trump_mask.jpg"; being used in the blending example.
 

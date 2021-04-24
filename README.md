@@ -60,7 +60,6 @@ The main purpose of this program is to deal with the applications of pyramids, l
 
 **Blending Output**:
 <img src="Code_Sample_3/externals/example_outcome.jpg" alt="outcome" width="300"/>
-![outcome](Code_Sample_3/externals/example_outcome.jpg)
 
 
 

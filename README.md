@@ -52,6 +52,14 @@ The main purpose of this program is to deal with the applications of pyramids, l
 - **externals**: "catan512.jpg" "example_outcome.jpg" "trump_big_512.jpg" "catan_trump_mask.jpg"; being used in the blending example.
 
 ### Program's Outcomes
+**Input Images**:
+<img src="Code_Sample_3/externals/trump_big_512.jpg" alt="input1" width="200"/>
+![input1](Code_Sample_3/externals/trump_big_512.jpg)
+<img src="Code_Sample_3/externals/catan512.jpg" alt="input2" width="200"/>
+![input2](Code_Sample_3/externals/catan512.jpg)
+
+**Blending Output**:
+<img src="Code_Sample_3/externals/example_outcome.jpg" alt="outcome" width="300"/>
 ![outcome](Code_Sample_3/externals/example_outcome.jpg)
 
 

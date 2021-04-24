@@ -3,7 +3,6 @@
 Projects related to Introduction to Image Processing course.
 
 ## Ex1 - Image Representations, Intensity Transformations, and Quantization
-
 The main purpose of this exercise is to get acquainted with NumPy and some image proccessing facillities.
 
 ### The exercise covers:
@@ -19,10 +18,9 @@ The main purpose of this exercise is to get acquainted with NumPy and some image
 
 ### Notes
 The project assumes valid inputs.
-
-
+ 
+ 
 ## Ex2 - Fourier Transform & Convolution
-
 The main purpose of this exercise is to understand (hands-on) the concept of the frequency domain by performing simple manipulations on sounds and images.
 
 ### The exercise covers:

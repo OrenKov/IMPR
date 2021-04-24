@@ -2,7 +2,7 @@
 
 Projects related to Introduction to Image Processing course.
 
-## Image Representations, Intensity Transformations, and Quantization
+## Code_Example_1 - Image Representations, Intensity Transformations, and Quantization
 The main purpose of this program is to get acquainted with NumPy and some image proccessing facillities.
 
 ### The program covers:
@@ -20,7 +20,7 @@ The main purpose of this program is to get acquainted with NumPy and some image 
 The project assumes valid inputs.<br />
  <br />
  
-## Fourier Transform & Convolution
+## Code_Example_2 - Fourier Transform & Convolution
 The main purpose of this program is to understand (hands-on) the concept of the frequency domain by performing simple manipulations on sounds and images.
 
 ### The program covers:

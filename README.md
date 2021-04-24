@@ -2,7 +2,7 @@
 
 Projects related to Introduction to Image Processing course.
 
-## Code_Example_1 - Image Representations, Intensity Transformations, and Quantization
+## Code_Example_1 - Image Representations, Intensity Transformations, Quantization
 The main purpose of this program is to get acquainted with NumPy and some image proccessing facillities.
 
 ### The program covers:
@@ -34,4 +34,25 @@ The main purpose of this program is to understand (hands-on) the concept of the 
 
 ### Notes
 - The project assumes valid inputs.
-- Methods and variables names are not consistent due to the program API's requirements. 
+- Methods and variables names are not consistent due to the program API's requirements. <br />
+
+
+ <br />
+ 
+## Code_Example_3 - Pyramid Blending
+The main purpose of this program is to deal with the applications of pyramids, low-pass and band-pass filtering in image proccessing.
+
+### The program covers:
+- Construction of Gaussian and Laplacian pyramids.
+- Ipmlementing pyramid blending.
+
+### Related Files
+- **sol3.py**: The program file.
+- **requirements_3.txt**: The requirements file for the program. 
+
+### Program's Outcomes
+On built.
+
+### Notes
+- The project assumes valid inputs.
+

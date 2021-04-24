@@ -18,32 +18,22 @@ The main purpose of this exercise is to get acquainted with NumPy and some image
 - **requirements_1.txt**: The requirements file for the exercise. 
 
 ### Notes
-
 The project assumes valid inputs.
 
 
-## Installation
+## Ex2 - Fourier Transform & Convolution
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+The main purpose of this exercise is to understand (hands-on) the concept of the frequency domain by performing simple manipulations on sounds and images.
 
-```bash
-pip install foobar
-```
+### The exercise covers:
+- Implementing DFT (Discrete Fourier Transform) on 1D and 2D signals.
+- Performing sound fast forward.
+- Performing image derivative.
 
-## Usage
+### Related Files
+- **sol2.py**: The exercise file.
+- **requirements_2.txt**: The requirements file for the exercise. 
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### Notes
+- The project assumes valid inputs.
+- Methods and variables names are not consistent due to the exercise API's requirements. 

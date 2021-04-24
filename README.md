@@ -52,7 +52,7 @@ The main purpose of this program is to deal with the applications of pyramids, l
 - **externals**: "catan512.jpg" "example_outcome.jpg" "trump_big_512.jpg" "catan_trump_mask.jpg"; being used in the blending example.
 
 ### Program's Outcomes
-![outcome](https://github.com/OrenKov/IMPR/tree/main/Code_Sample_3/externals/example_outcome.jpg?raw=true)
+![outcome](Code_Sample_3/externals/example_outcome.jpg)
 
 
 

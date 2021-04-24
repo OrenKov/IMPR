@@ -1,6 +1,8 @@
 # IMPR
 
 Projects related to Introduction to Image Processing course.
+<br />
+<br />
 
 ## Code_Sample_1 - Image Representations, Intensity Transformations, Quantization
 The main purpose of this program is to get acquainted with NumPy and some image proccessing facillities.
@@ -19,6 +21,7 @@ The main purpose of this program is to get acquainted with NumPy and some image 
 ### Notes
 The project assumes valid inputs.<br />
  <br />
+ <br />
  
 ## Code_Sample_2 - Fourier Transform & Convolution
 The main purpose of this program is to understand (hands-on) the concept of the frequency domain by performing simple manipulations on sounds and images.
@@ -36,7 +39,7 @@ The main purpose of this program is to understand (hands-on) the concept of the 
 - The project assumes valid inputs.
 - Methods and variables names are not consistent due to the program API's requirements. <br />
 
-
+<br />
  <br />
  
 ## Code_Sample_3 - Pyramid Blending
@@ -64,3 +67,4 @@ The main purpose of this program is to deal with the applications of pyramids, l
 ### Notes
 - The project assumes valid inputs.
 
+<br />

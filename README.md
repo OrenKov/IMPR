@@ -53,11 +53,11 @@ The main purpose of this program is to deal with the applications of pyramids, l
 
 ### Program's Outcomes
 **Input Images**: <br />
-<img src="Code_Sample_3/externals/trump_big_512.jpg" alt="input1" width="200"/>
-<img src="Code_Sample_3/externals/catan512.jpg" alt="input2" width="200"/>
+<img src="Code_Sample_3/externals/trump_big_512.jpg" alt="input1" width="200" class="center"/>
+<img src="Code_Sample_3/externals/catan512.jpg" alt="input2" width="200" class="center"/>
 
 **Blending Output**: <br />
-<img src="Code_Sample_3/externals/example_outcome.jpg" alt="outcome" width="300"/>
+<img src="Code_Sample_3/externals/example_outcome.jpg" alt="outcome" width="300" class="center"/>
 
 
 

@@ -17,9 +17,9 @@ The main purpose of this exercise is to get acquainted with NumPy and some image
 - **requirements_1.txt**: The requirements file for the exercise. 
 
 ### Notes
-The project assumes valid inputs.
+The project assumes valid inputs.\
  
- \
+ 
 ## Ex2 - Fourier Transform & Convolution
 The main purpose of this exercise is to understand (hands-on) the concept of the frequency domain by performing simple manipulations on sounds and images.
 
